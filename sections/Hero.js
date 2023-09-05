@@ -15,7 +15,7 @@ const Hero = () => {
           <h1 className='hero-title'>IGNITE THE INNOVATION</h1>
 
           <div className='sub-heading'>
-            <TitleSm title='Event Date : 25 & 26 October' /> 
+            <TitleSm title='Event Date :  31st October' /> 
             <br />
             <br />
             <br />
@@ -27,7 +27,7 @@ const Hero = () => {
       <section className='hero-sec'>
         <div className='container'>
           <div className='heading-title'>
-            <Title title='The Best Robotic Competition' />
+            <Title title='Introducing Robotron 2.0' />
             <p>Introducing Robotron 2.0 - Empowering Future Innovators! Our revolutionary robotics event builds a foundation for the next generation of global citizens, fostering technical curiosity, developmental thinking, and innovation. Through mind-boggling concepts like speed coding and robotic programming, Robotron 2.0 enlightens the vast world of technology, allowing participants to polish their skills and flourish in this dynamic field. Join us on this transformative journey towards a brighter technological future.
 
 
@@ -46,9 +46,11 @@ const Hero = () => {
           </div>
         </div>
       </section>
-      <Expertise />
-      <Banner />
       <ShowCase />
+      <Expertise />
+   
+
+      <Banner />
       <Brand />
       
 

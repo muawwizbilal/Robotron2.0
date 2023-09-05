@@ -9,6 +9,7 @@
   -webkit-text-stroke: 1px $white;
   font-family: 'TESLA',sans-serif;
   letter-spacing: 0.1em;
+  font-weight: 300;
   color: white;
   span {
     font-size: 90px;
@@ -80,10 +81,10 @@
 }
 
 .button_hero{
-  background-color: $green;
+  background: $gradient3;
   box-shadow: none;
   color: $white;
-  padding: 20px 60px;
+  padding: 20px 60px; 
   font-size: $lg;
   text-transform: uppercase;
   letter-spacing: 2px;
