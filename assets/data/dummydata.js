@@ -103,12 +103,41 @@ export const showcase = [
   },
 ]
 export const brand = [
+  
   {
     id: 1,
-    cover: "../images/touchpoint.png",
+    cover: "../images/maison.jpeg",
   },
+  {
+    id: 2,
+    cover: "../images/chaajao-logo.png",
+  },
+  {
+    id: 3,
+    cover: "../images/logo.png",
+  },
+  {
+    id: 4,
+    cover: "../images/truck.png",
+  },
+  {
+    id: 5,
+    cover: "../images/nizamuddin.jpeg",
+  },
+
+  
   
 ]
+export const poweredBy = [
+  {
+    id: "logo1",
+    cover: "../images/tlslogo.png",
+  },
+  {
+    id: "logo2",
+    cover: "../images/sret.png",
+  },
+];
 export const blogdata = [
   {
     id: 1,

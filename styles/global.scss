@@ -166,7 +166,19 @@
     }
   }
 }
+.img_sponsor{
+  display: flex;
+  flex-wrap: wrap; /* Wrap items onto the next line */
+  justify-content: flex-start; /* Adjust alignment as needed */
+  
+}
+.sponsor{
+  margin: 10px;
 
+}
+.powered-by p{
+  color: $gradient;
+}
 //showcase
 .showcase {
   .card-img {
@@ -321,7 +333,10 @@ footer {
     display: block; /* Show the expanded navigation menu */
   }
 }
-
+.images{
+  display: flex;
+  align-items: center;
+}
 
 //contact
 .contact {

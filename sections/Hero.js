@@ -15,7 +15,7 @@ const Hero = () => {
           <h1 className='hero-title'>IGNITE THE INNOVATION</h1>
 
           <div className='sub-heading'>
-            <TitleSm title='Event Date :  31st October' /> 
+            <TitleSm title='Event Date :  4th  November 2023' /> 
             <br />
             <br />
             <br />
