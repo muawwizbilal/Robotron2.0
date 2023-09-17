@@ -237,7 +237,7 @@ export const teamdata = [
   },
   {
     id: 11,
-    title: "Osaid Salman",
+    title: "Usayed Salman",
     cover: "../images/TEAM/avatar-male.jpg",
     post: "Marketing & Logistics",
   }, 
