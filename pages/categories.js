@@ -7,6 +7,7 @@ const showcase = () => {
     <>
       <Head>
         <title>Categories - Robotron</title>
+        
       </Head>
       <ShowCase />
     </>

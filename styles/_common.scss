@@ -52,6 +52,23 @@
   box-shadow: $shadow-md;
   cursor: pointer;
 }
+.rule-button{
+  background-color: #171e20;
+  box-shadow: none;
+  color: red;
+  padding: 20px 60px;
+  font-size: $lg;
+  border-radius:60px ;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  box-shadow: rgba($dark, 5) 0px 7px 29px 0px;
+  transition: 0.5s ease-in-out;
+  &:hover {
+    color: $green;
+  }
+  
+  
+}
 .secondary-button,
 .btn-banner{
   text-transform: capitalize;
