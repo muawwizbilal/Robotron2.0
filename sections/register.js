@@ -81,9 +81,8 @@ const Register = () => {
                     <div className="left w-20"></div>
                     <div className="right w-70">
                         <TitleSm title="Please Fill In The Details" />
-                                                    <TitleSm title="Account Details : " />
 
-                        <p className="desc-p"> <br/> The Lab School <br/>
+                        <p className="desc-p">Account Details For The Registration Fees :  <br/> The Lab School <br/>
 IBAN: PK05 MEZN 0001 5601 0675 7671 <br/>
 Account No: 0156 0106757671 <br/>
 Meezan Bank </p>
