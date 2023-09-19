@@ -85,7 +85,7 @@ const Register = () => {
                         <p className="desc-p">Account Details For The Registration Fee :  <br/> The Lab School <br/>
 IBAN: PK05 MEZN 0001 5601 0675 7671 <br/>
 Account No: 0156 0106757671 <br/>
- Meezan Bank <br/> Note: Share Your Payment Screenshot On Whatsapp: 0345 1857857 </p>
+ Meezan Bank <br/> <span style={{ color: 'red' }}>Note: Share Your Payment Screenshot On Whatsapp: </span>0345 1857857 </p>
 
                         <form onSubmit={handleSubmit}>
                             <div className="inputs">
