@@ -81,7 +81,10 @@ const Register = () => {
                     <div className="left w-20"></div>
                     <div className="right w-70">
                         <TitleSm title="Please Fill In The Details" />
-                        <p className="desc-p">Hello </p>
+                        <p className="desc-p">Account Details: <br/> The Lab School <br/>
+IBAN: PK05 MEZN 0001 5601 0675 7671 <br/>
+Account No: 0156 0106757671 <br/>
+Meezan Bank </p>
 
                         <form onSubmit={handleSubmit}>
                             <div className="inputs">
