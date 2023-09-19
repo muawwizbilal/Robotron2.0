@@ -81,7 +81,7 @@ const Register = () => {
                     <div className="left w-20"></div>
                     <div className="right w-70">
                         <TitleSm title="Please Fill In The Details" />
-                        <p className="desc-p"> </p>
+                        <p className="desc-p">Hello </p>
 
                         <form onSubmit={handleSubmit}>
                             <div className="inputs">
