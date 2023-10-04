@@ -23,7 +23,7 @@ const Categories = () => {
         </div>
         <div className='button-container'>
             <a
-              href='https://publuu.com/flip-book/240606/570887/page/1'
+              href='https://drive.google.com/file/d/1nGjDWx8-YS_6oZROOvDotMnIiZUEjEMD/view'
               target='_blank'
               rel='noopener noreferrer'
               className='rule-button'
