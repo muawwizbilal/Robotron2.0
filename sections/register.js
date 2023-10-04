@@ -64,7 +64,7 @@ const Register = () => {
 
     const robotCategories = {
         school: ['Line Following (Modular/Indigenous)', 'Theme Mission Modular','Maze Solving','Robo Sumo','Robo War','Game Of Drones','Speed Coding Scratch','Speed Coding Python'],
-        university: ['Line Following (Indigenous)', 'Line Following Mission (Indigenous)','Maze Solving','Robo Sumo','Robo War','Game Of Drones','Speed Coding Python'],
+        university: ['Line Following (Indigenous)', 'Line Following Mission (Indigenous)','Robo Race','Robo Sumo','Robo War','Game Of Drones','Speed Coding Python'],
     };
 
     return (
